@@ -33,6 +33,7 @@ h1{
 
 :root{
     background: url(ikigai-hachi-roku.jpg);
+    background-size: 500px;
     --cor-principal: #0b0d2077 ;
     --cor-secundaria: #151620;
     --cor-destaque: #0099ff;
