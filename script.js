@@ -5,42 +5,42 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Como resolver equação do segundo grau?",
+        enunciado: "supra mk4 ou 350z?",
         alternativas: [
             {
-                texto: "aplicar a formula de Bhaskara",
-                afirmacao: "Aplicando a formula de Bhaskara voce pode resolver de forma mais demorada"
+                texto: "supra",
+                afirmacao: "poser"
                
             },
             {
-                texto: "Soma e produto",
-                afirmacao: "usando soma e produto voce pode economizar tempo"
+                texto: "350",
+                afirmacao: "drifter"
             },
         ]
     },
     {
-        enunciado: "Pergunta2",
+        enunciado: "2jz ou rotativo",
         alternativas: [
             {
-                texto: "alternativa1",
-                afirmacao: "afirmacao1"
+                texto: "2jz",
+                afirmacao: "poser"
             },
             {
-                texto: "alternativa2",
-                afirmacao: "afirmacao2"
+                texto: "rotativo",
+                afirmacao: "drifter"
             },
         ]
     },
     {
-        enunciado: "Pergunta3",
+        enunciado: "oque é rachi-roku",
         alternativas: [
             {
-                texto: "alternativa1",
-                afirmacao: "afirmacao1"
+                texto: "um anime",
+                afirmacao: "poser"
             },
             {
-                texto: "alternativa2",
-                afirmacao: "afirmacao2"
+                texto: "um carro",
+                afirmacao: "drifter"
             },
         ]
     },
