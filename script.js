@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "2jz",
-                afirmacao: "é melhor para velocidade"
+                afirmacao: ",é melhor para velocidade"
             },
             {
                 texto: "rotativo",
-                afirmacao: "é o mais eficiente"
+                afirmacao: ",é o mais eficiente"
             },
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "um anime",
-                afirmacao: "rachi roku é o apelido do carro AE86"
+                afirmacao: ",rachi roku é o apelido do carro AE86"
             },
             {
                 texto: "um carro",
-                afirmacao: "o famoso AE86"
+                afirmacao: ",o famoso AE86"
             },
         ]
     },
