@@ -9,12 +9,12 @@ const perguntas = [
         alternativas: [
             {
                 texto: "supra",
-                afirmacao: "poser"
+                afirmacao: "ficol no passado"
                
             },
             {
                 texto: "350",
-                afirmacao: "drifter"
+                afirmacao: "atualmente é a melhor opção"
             },
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "2jz",
-                afirmacao: "poser"
+                afirmacao: "é melhor para velocidade"
             },
             {
                 texto: "rotativo",
-                afirmacao: "drifter"
+                afirmacao: "é o mais eficiente"
             },
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "um anime",
-                afirmacao: "poser"
+                afirmacao: "rachi roku é o apelido do carro AE86"
             },
             {
                 texto: "um carro",
-                afirmacao: "drifter"
+                afirmacao: "o famoso AE86"
             },
         ]
     },
