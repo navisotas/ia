@@ -9,7 +9,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "supra",
-                afirmacao: "ficol no passado"
+                afirmacao: "ficou no passado"
                
             },
             {
